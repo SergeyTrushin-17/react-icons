@@ -1,0 +1,14 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M15.2379 5.63525L14.3649 7.38129L13.2012 8.18184" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M3.88867 10H6.60375" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13.3955 10H16.1106" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.76163 2.14307H3.88861C2.92393 2.14307 2.14258 2.92442 2.14258 3.8891V4.76211" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15.2383 17.8573H16.1113C17.076 17.8573 17.8573 17.076 17.8573 16.1113V15.2383" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M2.14258 15.2383V16.1113C2.14258 17.076 2.92393 17.8573 3.88861 17.8573H4.76163" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17.8573 4.76211V3.8891C17.8573 2.92442 17.076 2.14307 16.1113 2.14307H15.2383" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.76172 5.63525L5.63473 7.38129L6.79847 8.18184" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10.3873 14.3655H9.61123C8.16465 14.3655 6.99219 13.193 6.99219 11.7464V9.12738C6.99219 8.1627 7.77354 7.38135 8.73822 7.38135H11.2604C12.225 7.38135 13.0064 8.1627 13.0064 9.12738V11.7464C13.0064 13.193 11.8339 14.3655 10.3873 14.3655Z" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.76172 14.3654L5.63473 12.6194L6.79847 11.8188" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15.2379 14.3654L14.3649 12.6194L13.2012 11.8188" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11.746 7.38126H8.25391V5.63522C8.25391 5.15332 8.64502 4.76221 9.12692 4.76221H10.873C11.3549 4.76221 11.746 5.15332 11.746 5.63522V7.38126Z" stroke="#171D23" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
